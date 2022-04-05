@@ -1,6 +1,6 @@
 # NTLM-Hash-checker
 A quick and dirty way to check a list of passwords up against a NTLM hash.
-Where it will permute the letters in the passwords and test all the different versions up against the NTLM hash.
+It will permute the letters in the passwords and test all the different versions up against the hash.
 
 -----
 
