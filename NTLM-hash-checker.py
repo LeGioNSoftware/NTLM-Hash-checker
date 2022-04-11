@@ -13,6 +13,9 @@ if __name__ == '__main__':
 hashsum = args.hash
 
 #The magic behind the permutation.
+def permute(inp):
+	n = len(inp)
+	
 	mx = 1 << n
 
 	inp = inp.lower()
